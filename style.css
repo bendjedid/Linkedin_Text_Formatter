@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+}
+.message.success {
+    background-color: rgba(5, 118, 66, 0.1);
+    color: #057642;
+}
+.message.error {
+    background-color: rgba(231, 76, 60, 0.1);
+    color: #e74c3c;
+}
